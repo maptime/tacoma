@@ -1,13 +1,13 @@
-baseurl: /starter
+baseurl: /tacoma
 permalink: pretty
 future: true
 markdown: kramdown
 paginate: 5
-repo: starter
+repo: tacoma
 github_org: maptime
 maptime:
-  chapter: Chapter name
-  twitter: TwitterHandle
+  chapter: MaptimeTacoma
+  #twitter: TwitterHandle
   #disqus: YOUR DISQUS USERNAME
 
 gems:
