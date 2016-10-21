@@ -7,7 +7,7 @@ repo: tacoma
 github_org: maptime
 maptime:
   chapter: MaptimeTacoma
-  #twitter: TwitterHandle
+  #twitter: MaptimeTacoma
   #disqus: YOUR DISQUS USERNAME
 
 gems:
